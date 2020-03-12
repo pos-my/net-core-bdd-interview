@@ -12,7 +12,7 @@
     <PackageReference Include="SpecFlow" Version="3.1.86" />
     <PackageReference Include="SpecFlow.Tools.MsBuild.Generation" Version="3.1.86" />
     <PackageReference Include="SpecFlow.NUnit" Version="3.1.86" />
-    <PackageReference Include="FluentAssertions" Version="5.7.0" />
+    <PackageReference Include="FluentAssertions" Version="5.10.2" />
   </ItemGroup>
 
 </Project>
